@@ -8,6 +8,6 @@ def main(x1,x2,x3):
     Returns:
         str: return answer.
     """
-    answer=(f"[{str(x1)},{str(x2)},{str(x3)}]")
-    return answer
+    answer=(f"[{x1},{x2},{x3}]")
+    return str(answer)
 print (main(1,2,3)) 
