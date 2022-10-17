@@ -7,6 +7,6 @@ def main(first,last):
     Returns:
         str: return answer.
     """
-    answer=first+","+last
+    answer=first+", "+last
     return answer
 print(main("Ramazon","Omonturdiyev" ))   
