@@ -7,6 +7,6 @@ def main(first,last):
     Returns:
         str: return answer.
     """
-    answer=f'{}, {}'.format(x1,x2,x3)
+    answer='{}, {}'.format(first,last)
     return answer
 print(main("Ramazon","Omonturdiyev" ))   
