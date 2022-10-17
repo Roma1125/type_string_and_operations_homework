@@ -7,5 +7,5 @@ def main(first,last):
     Returns:
         str: return answer.
     """
-    return f'{first} {last}'
-print(main("Ramazon","Omonturdiyev" ))
+    return f'{first}, {last}'
+print(main("Ramazon","Omonturdiyev" ))  
